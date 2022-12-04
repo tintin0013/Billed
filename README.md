@@ -2,10 +2,7 @@
 
 Projet 9 de la formation developpeur d'application  js/react | OpenClassrooms
 
-**Landing page**
-
-<kbd>![landing page](./Billed.png)</kbd>
-
+![Alt text](billed.png)
 
 ## L'architecture du projet :
 Ce projet, dit frontend, est connecté à un service API backend que vous devez aussi lancer en local.
@@ -19,7 +16,6 @@ Clonez le projet backend dans le dossier bill-app :
 ```
  git clone https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-Back.git
 ```
-
 ```
 bill-app/
    - Billed-app-FR-Back
@@ -100,4 +96,3 @@ mot de passe : admin
 utilisateur : employee@test.tld
 mot de passe : employee
 ```
-# Billed

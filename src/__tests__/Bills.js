@@ -107,8 +107,7 @@ describe("When I click on an icon eye", () => {
   });
 });
 
-//*** */
-// test d'intégration GET
+//***  test d'intégration GET ***
 describe("Given I am a user connected as Employee", () => {
   describe("When I navigate to Bills page", () => {
     test("fetches bills from mock API GET", async () => {

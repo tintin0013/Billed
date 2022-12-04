@@ -32,7 +32,7 @@ describe("Given I am connected as an employee", () => {
       window.onNavigate(ROUTES_PATH.NewBill);
       await waitFor(() => screen.getByTestId("icon-mail"));
       const mailIcon = screen.getByTestId("icon-mail");
-      //to-do write expect expression
+
       expect(mailIcon.className).toBe("active-icon");
     });
   });
